@@ -5,6 +5,8 @@ A 2D game in first person, which would be 1D
  I made this project start to finish in 3 days, excepting the game loop which I had from other projects
 
 ## Use
+You gotta execute the static main of class Ventana
+
 - WASD to move relative of orientation.
 - Q & E to rotate the player.
 - Mouse wheel to change the zoom.
